@@ -1,4 +1,5 @@
 **/.DS_Store
+**/.idea
 front-end/frontApp
 broker-service/brokerApp
 auth-service/authApp
