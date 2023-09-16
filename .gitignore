@@ -1,0 +1,5 @@
+**/.DS_Store
+front-end/frontApp
+broker-service/brokerApp
+auth-service/authApp
+logger-service/loggerApp
